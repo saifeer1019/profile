@@ -1,6 +1,6 @@
-![Alt text](url)
+<img src="https://github.com/saifeer1019/profile/blob/main/Best-Programming-Languages-to-Start-Learning-Today.jpg" alt="Alt text" width="800" height=400 >
 
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Fahima Samsunnahar Bushra 👋
 
 ## React Developer | Frontend Developer | MERN Stack Developer | Competitive Programmer
 
@@ -17,32 +17,19 @@
 
 ## 📫 How to reach me
 - Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- Twitter: [twitter.com/your-handle](https://twitter.com/your-handle)
+- LinkedIn: [https://www.linkedin.com/in/fahima-bushra-a6392a25a/](https://www.linkedin.com/in/fahima-bushra-a6392a25a/)
+- Facebook: [https://www.facebook.com/fahima.bushra.9](https://www.facebook.com/fahima.bushra.9)
+- Github: [https://github.com/fahimabushra1](https://github.com/fahimabushra1)
 
-## 🚀 My Portfolio
-Check out my [portfolio website](https://your-portfolio-url.com).
 
-## 📝 Latest Projects
-### [Project 1 Name](https://github.com/your-username/project-1)
-Description of project 1.
-
-### [Project 2 Name](https://github.com/your-username/project-2)
-Description of project 2.
-
-### [Project 3 Name](https://github.com/your-username/project-3)
-Description of project 3.
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahimabushra1&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=fahimabushra1&theme=radical)
 
-## 📌 Pinned Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-name)](https://github.com/your-username/repo-name)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-name)](https://github.com/your-username/repo-name)
 
 ---
 
-⭐️ From [Your Name](https://github.com/your-username)
+⭐️ From [Fahima Samsunnahar Bushra](https://github.com/fahimabushra1)
